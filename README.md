@@ -1,4 +1,4 @@
-f# 💫 About Me:
+# 💫 About Me:
 
 🔭 Working at CodeSail - Teaching people how to code!<br>🧠 I'm currently learning game development<br>🙋‍♂️ Ask me about linux
 
